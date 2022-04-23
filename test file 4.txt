@@ -2,3 +2,5 @@ salam az test file 4
 baraye test branch 1 dovomin commit ijad gardid
 
 baraye test sevomin commit in matn neveshte shod
+
+in line baraye test kar ba git dar vscode dar file 4 neveshte shod (branch 1)
